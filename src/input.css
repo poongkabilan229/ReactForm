@@ -1,0 +1,13 @@
+.infield{
+    display: grid;
+    justify-content: center;
+    margin-top: 20px;
+}
+.infield input{
+    width: 250px;
+    height: 20px;
+}
+
+form{
+    display: grid;
+}

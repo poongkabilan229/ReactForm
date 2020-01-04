@@ -1,0 +1,14 @@
+table{
+    border: 1px solid black;
+    width: 610px;
+    margin-top: 30px;
+    margin-left: 385px;
+    text-align: center;
+}
+th{
+    border: 1px solid black;
+    width: 33.33%
+}
+td{
+    border: 1px solid black;
+}
